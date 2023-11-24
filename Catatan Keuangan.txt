@@ -1,0 +1,6 @@
+Pemasukan	Pengeluaran	Saldo
+1000000	75000	925000
+
+Tanggal	Kategori	Jumlah	Keterangan
+11/20/2023	Pengeluaran	75000	Susu,Cereal,Sosis
+11/01/2023	Pemasukan	1000000	Gajih
